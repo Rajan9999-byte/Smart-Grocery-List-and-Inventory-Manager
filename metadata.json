@@ -1,0 +1,6 @@
+{
+  "name": "FreshKeep AI",
+  "description": "AI-powered Smart Grocery List, Expiry Estimator, Receipt OCR, and Pantry Recipe Assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
